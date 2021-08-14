@@ -2,6 +2,8 @@ package LabraryCTproje.test;
 
 public class xxcvcvcv {
      /*
+     xxxxxxxxx
+     ssssssss
     write a program that can find the first duplicated element from the array
      */
 
