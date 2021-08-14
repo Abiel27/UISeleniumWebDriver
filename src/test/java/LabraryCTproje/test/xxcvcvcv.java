@@ -2,8 +2,7 @@ package LabraryCTproje.test;
 
 public class xxcvcvcv {
      /*
-     xxxxxxxxx
-     ssssssss
+     This is creating a function that will acomplish the task we want,
     write a program that can find the first duplicated element from the array
      */
 
