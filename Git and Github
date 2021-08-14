@@ -1,0 +1,35 @@
+Git and GitHub
+open new ropositery
+open Atom text editer
+creat new file and type ur wish
+commit comment in Gihub and observe it in the Gigub history.
+Last action 
+Push repo to Git
+view on gitHub
+
+Go back to GitHub descktop and commit new update.
+push Origin
+Go to git repositoy 
+create new file
+-----------------------
+Intellije
+Creat a maven project
+create new class "test" under src/main/java
+VCS-Enable Version control to creat git repo,
+if you wish to ignore files;
+select all .iml,target,idea etc...
+right click -Git - addto .gitignore.
+click create .gitIgnore
+then allow to add the files 
+according to our selection.
+------------
+create a branch xxx
+creat a java class xxx
+commit your change with pmessage
+observe the hear moveing
+bush the branch
+it will creat branch with origine/xxx
+all commite will  be pushed to remote branch
+also obsreve
+Go to gitHub repo compare and pull request
+compae origin/xx and origine master
